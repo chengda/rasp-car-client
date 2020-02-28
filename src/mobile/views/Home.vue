@@ -17,8 +17,7 @@
             </div>
             <div class="row">
                 <div class="cell"></div>
-                <img class="cell ctl-btn" width="128" height="128" src="../assets/down.svg"
-                     @touchstart.prevent="move('back')" @touchend="stop">
+                <img class="cell ctl-btn" src="../assets/down.svg" @touchstart.prevent="move('back')" @touchend="stop">
                 <div class="cell"></div>
             </div>
         </div>
