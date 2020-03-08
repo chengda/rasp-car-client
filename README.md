@@ -8,6 +8,8 @@
 npm install
 npm run build
 ```
+编译后的代码位于dist/目录下。
+
 ## 3. 客户端部署
-客户端配合[服务端](https://github.com/chengda/rasp-car-server)使用，可以与服务端一起打包部署。
+客户端配合[服务端](https://github.com/chengda/rasp-car-server)使用，与服务端一起打包部署。
 
