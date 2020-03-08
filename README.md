@@ -1,19 +1,13 @@
 # rasp-car-client
+树梅派小车的控制客户端，服务端在[这里](https://github.com/chengda/rasp-car-server)
+## 1. 界面截图
+![avator](md/screeshot1.png)
 
-## Project setup
+## 2. 源码编译
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
 npm run build
 ```
+## 3. 客户端部署
+客户端配合[服务端](https://github.com/chengda/rasp-car-server)使用，可以与服务端一起打包部署。
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
